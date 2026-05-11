@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Nepal Energy Transition Poster</title>
+
+  <!-- Tailwind CSS CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+
+<body class="bg-white text-gray-900">
+
+  <div class="min-h-screen p-10">
+    <div class="max-w-7xl mx-auto space-y-8">
+
+      <!-- Header -->
+      <div class="text-center border-b pb-6">
+        <h1 class="text-5xl font-bold leading-tight">
+          Nepal’s Energy Transition & Strategic Business Opportunities
+        </h1>
+
+        <p class="text-xl mt-4 text-gray-600">
+          Comparative Research Study: Nepal vs United Kingdom Power Sector (2026–2050)
+        </p>
+
+        <p class="mt-2 text-sm text-gray-500">
+          Strategic Infrastructure, Transmission, Trade & Renewable Energy Roadmap
+        </p>
+      </div>
+
+      <!-- Top 3 Cards -->
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+
+        <!-- Current State -->
+        <div class="bg-gray-50 rounded-3xl shadow-lg p-6">
+          <h2 class="text-2xl font-semibold mb-4">
+            Current State of Nepal
+          </h2>
+
+          <ul class="space-y-3 text-sm leading-relaxed">
+            <li>• Installed Capacity: ~3,500–3,600 MW</li>
+            <li>• Over 95% Hydropower Dominated</li>
+            <li>• Seasonal Monsoon Surplus</li>
+            <li>• Winter Energy Deficit</li>
+            <li>• Weak Transmission Infrastructure</li>
+            <li>• Rapid Growth in Regional Exports</li>
+            <li>• Emerging Open Access Market Reforms</li>
+          </ul>
+        </div>
+
+        <!-- Problems -->
+        <div class="bg-gray-50 rounded-3xl shadow-lg p-6">
+          <h2 class="text-2xl font-semibold mb-4">
+            Key Structural Problems
+          </h2>
+
+          <ul class="space-y-3 text-sm leading-relaxed">
+            <li>• Transmission Bottlenecks</li>
+            <li>• Lack of Battery Storage</li>
+            <li>• Weak Grid Digitalization</li>
+            <li>• Limited Domestic Electrification</li>
+            <li>• Weak Compliance & Grid Codes</li>
+            <li>• Limited Ancillary Service Markets</li>
+            <li>• Seasonal Power Imbalance</li>
+          </ul>
+        </div>
+
+        <!-- Market Players -->
+        <div class="bg-gray-50 rounded-3xl shadow-lg p-6">
+          <h2 class="text-2xl font-semibold mb-4">
+            Major Market Players
+          </h2>
+
+          <ul class="space-y-3 text-sm leading-relaxed">
+            <li>• Nepal Electricity Authority (NEA)</li>
+            <li>• Electricity Regulatory Commission</li>
+            <li>• MCA-Nepal</li>
+            <li>• Independent Power Producers</li>
+            <li>• India (Trade & Grid Corridor)</li>
+            <li>• Bangladesh (Future Buyer)</li>
+            <li>• International Donors & Investors</li>
+          </ul>
+        </div>
+
+      </div>
+
+      <!-- Comparison Section -->
+      <div class="bg-black text-white rounded-3xl p-8 shadow-2xl">
+
+        <h2 class="text-3xl font-bold mb-6 text-center">
+          Nepal vs United Kingdom Energy Ecosystem
+        </h2>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-8 text-sm">
+
+          <!-- Nepal -->
+          <div class="bg-gray-900 rounded-2xl p-6">
+            <h3 class="text-2xl font-semibold mb-4">
+              Nepal (Emerging Market)
+            </h3>
+
+            <ul class="space-y-3">
+              <li>• Centralized electricity structure</li>
+              <li>• Hydropower dominated</li>
+              <li>• Early-stage regional trade</li>
+              <li>• Limited storage systems</li>
+              <li>• Weak digital grid systems</li>
+              <li>• Infrastructure expansion focus</li>
+              <li>• Transmission still developing</li>
+            </ul>
+          </div>
+
+          <!-- UK -->
+          <div class="bg-gray-900 rounded-2xl p-6">
+            <h3 class="text-2xl font-semibold mb-4">
+              United Kingdom (Mature Market)
+            </h3>
+
+            <ul class="space-y-3">
+              <li>• Liberalized electricity markets</li>
+              <li>• Advanced balancing markets</li>
+              <li>• Massive BESS deployment</li>
+              <li>• Smart-grid integration</li>
+              <li>• Strong compliance systems</li>
+              <li>• Renewable congestion management</li>
+              <li>• Highly digitalized operations</li>
+            </ul>
+          </div>
+
+        </div>
+      </div>
+
+      <!-- Opportunities + Roadmap -->
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+
+        <!-- Opportunities -->
+        <div class="bg-gray-50 rounded-3xl shadow-lg p-6">
+
+          <h2 class="text-3xl font-semibold mb-5">
+            Untapped Business Opportunities
+          </h2>
+
+          <div class="grid grid-cols-2 gap-4 text-sm">
+
+            <div class="bg-white rounded-2xl p-4 shadow">
+              <h3 class="font-semibold mb-2">
+                Compliance & Grid Codes
+              </h3>
+              <p>
+                Power quality, protection coordination, interconnection studies
+              </p>
+            </div>
+
+            <div class="bg-white rounded-2xl p-4 shadow">
+              <h3 class="font-semibold mb-2">
+                ESG & Climate Finance
+              </h3>
+              <p>
+                IFC compliance, sustainability reporting, carbon accounting
+              </p>
+            </div>
+
+            <div class="bg-white rounded-2xl p-4 shadow">
+              <h3 class="font-semibold mb-2">
+                Battery Storage (BESS)
+              </h3>
+              <p>
+                Hybrid hydro-storage systems and grid stabilization
+              </p>
+            </div>
+
+            <div class="bg-white rounded-2xl p-4 shadow">
+              <h3 class="font-semibold mb-2">
+                Digital Energy Systems
+              </h3>
+              <p>
+                Predictive maintenance, AI analytics, Power BI dashboards
+              </p>
+            </div>
+
+            <div class="bg-white rounded-2xl p-4 shadow">
+              <h3 class="font-semibold mb-2">
+                Electricity Trading
+              </h3>
+              <p>
+                Cross-border trade optimization and market analytics
+              </p>
+            </div>
+
+            <div class="bg-white rounded-2xl p-4 shadow">
+              <h3 class="font-semibold mb-2">
+                Industrial Electrification
+              </h3>
+              <p>
+                Clean heat transition and decarbonization consulting
+              </p>
+            </div>
+
+          </div>
+        </div>
+
+        <!-- Roadmap -->
+        <div class="bg-gray-50 rounded-3xl shadow-lg p-6">
+
+          <h2 class="text-3xl font-semibold mb-5">
+            Future Roadmap (2026–2050)
+          </h2>
+
+          <div class="space-y-5 text-sm">
+
+            <div class="bg-white rounded-2xl p-4 shadow">
+              <h3 class="font-bold text-lg">
+                Phase 1: 2026–2030
+              </h3>
+
+              <p>
+                Transmission expansion, export growth, grid stabilization,
+                open access implementation
+              </p>
+            </div>
+
+            <div class="bg-white rounded-2xl p-4 shadow">
+              <h3 class="font-bold text-lg">
+                Phase 2: 2030–2040
+              </h3>
+
+              <p>
+                Battery storage deployment, smart-grid systems,
+                ancillary markets, industrial electrification
+              </p>
+            </div>
+
+            <div class="bg-white rounded-2xl p-4 shadow">
+              <h3 class="font-bold text-lg">
+                Phase 3: 2040–2050
+              </h3>
+
+              <p>
+                Regional energy hub development,
+                AI-driven grid optimization,
+                virtual power plants
+              </p>
+            </div>
+
+          </div>
+        </div>
+
+      </div>
+
+      <!-- Conclusion -->
+      <div class="bg-gradient-to-r from-gray-900 to-black text-white rounded-3xl p-10 shadow-2xl">
+
+        <h2 class="text-4xl font-bold mb-6 text-center">
+          Strategic Conclusion
+        </h2>
+
+        <p class="text-lg leading-relaxed text-center max-w-5xl mx-auto">
+          Nepal’s future energy success will depend not only on hydropower generation,
+          but on building a modern, flexible, digitally integrated, regionally connected,
+          and commercially mature energy ecosystem. The greatest long-term value lies in
+          transmission systems, storage infrastructure, regulatory sophistication,
+          digital optimization, electricity trade, and industrial electrification.
+          This transition creates significant opportunities for international advisory
+          organizations, infrastructure consultants, ESG specialists,
+          and energy-system innovators.
+        </p>
+
+      </div>
+
+      <!-- Footer -->
+      <div class="text-center text-sm text-gray-500 pt-4">
+        Strategic Research Poster | Nepal Energy Transition Study | 2026
+      </div>
+
+    </div>
+  </div>
+
+</body>
+</html>
